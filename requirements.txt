@@ -1,0 +1,4 @@
+shodan
+requests
+argparse
+configparser
